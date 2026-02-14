@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import 'sans.ttf';
 
 .main {
     height: 300px;
-    width: 500px;
+    width: 550px;
     border: 1px solid rgba(255, 255, 255, 0.3);
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
@@ -74,5 +74,5 @@ hr {
 
 .name {
     color: rgb(255, 105, 180);
-    text-shadow: 10px 10px 10px rgb(150, 56, 103);
+    text-shadow: 10px 10px 50px rgb(150, 56, 103);
 }
